@@ -4,7 +4,7 @@ public class Automovil {
 
     String fabricante;
     String modelo;
-    String color="gris";
+    String color="red";
     double cilindrada;
 
     public String detalle(){
